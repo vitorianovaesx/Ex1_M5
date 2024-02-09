@@ -1,69 +1,26 @@
 {
-  "/Ex1_M5/__docusaurus/debug-d43": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-918-43c"
-    }
-  },
-  "/Ex1_M5/__docusaurus/debug/config-a1b": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-918-43c"
-    }
-  },
-  "/Ex1_M5/__docusaurus/debug/content-606": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-918-43c"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/Ex1_M5/__docusaurus/debug/globalData-e2e": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-918-43c"
-    }
-  },
-  "/Ex1_M5/__docusaurus/debug/metadata-d84": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-918-43c"
-    }
-  },
-  "/Ex1_M5/__docusaurus/debug/registry-131": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-918-43c"
-    }
-  },
-  "/Ex1_M5/__docusaurus/debug/routes-915": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-918-43c"
-    }
-  },
   "/Ex1_M5/markdown-page-da6": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagee-11-998"
+      "plugin": "e1185410"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/Ex1_M5/-310": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---d-20-0f8"
+      "plugin": "d20e22f0"
     }
   },
   "/Ex1_M5/-4f1": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---935-fcf"
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
   "/Ex1_M5/-428": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/Ex1_M5/-30a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---0-e-3-279"
+    "__comp": "17896441",
+    "content": "0e384e19"
   }
 }
